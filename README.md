@@ -1,5 +1,7 @@
 # **Cash Counter System**
 
+You can start a demo program [here](https://hezsystemscorporation.github.io/Projects-Demos/cash_count.html). 
+
 A lightweight, zero-install single-file Web application designed for rapid cash counting, handling loose banknotes and coins, and performing real-time foreign exchange conversions.
 
 ## **✨ Core Features**
